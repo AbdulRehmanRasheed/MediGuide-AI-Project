@@ -3,5 +3,5 @@ python-dotenv
 langchain
 langchain-core
 langchain-community
-langchain-openai
 langchain-classic
+langchain-google-genai
