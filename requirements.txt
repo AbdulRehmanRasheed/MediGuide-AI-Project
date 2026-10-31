@@ -1,0 +1,7 @@
+streamlit>=1.40
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-classic
